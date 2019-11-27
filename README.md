@@ -13,6 +13,12 @@ Qué preguntar?
 - Cuál es la política de vacaciones?
 - Cómo se mide mi rendimiento? En qué se basan los aumentos de sueldo?
 - Hay posibilidades de ascenso? Dónde puedo estar en 5 años?
+- Qué oportunidades hay disponibles para cambiar de roles? Como funciona esto?
 - Trabajar desde casa es posible? Cuándo?
+- Qué cambiarías por aquí si pudieras?
+- Cuál es la parte más frustrante de trabajar aquí?
+- Cómo se evalúan las nuevas tecnologías? Quién toma las decisiones finales?
+- Cuáles son las fortalezas y debilidades del equipo actual? 
+- Qué es algo que desearías que alguien te hubiera dicho antes de unirte?
 
 
