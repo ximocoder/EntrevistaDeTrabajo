@@ -1,8 +1,13 @@
 # EntrevistaDeTrabajo
 Notas para preparar una entrevista de trabajo en IT
 
-Qué prepararse?
-
+Cómo prepararse?
+- Elige un lenguaje de programación que vas a utilizar para las pruebas
+- Estudia los fundamentos de CS
+- Practica resolviendo preguntas de algoritmos
+- Internalizar lo que se debe y no se debe hacer en las entrevistas
+- Aprende las señales y comportamientos que buscan los entrevistadores
+- Hacer entrevistas simuladas
 
 Qué preguntar?
 - Me puedes hablar de los otros miembros del equipo con el que voy a trabajar?
