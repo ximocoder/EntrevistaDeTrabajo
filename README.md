@@ -17,6 +17,7 @@ Notas para preparar una entrevista de trabajo en IT
 - Qué stack tecnológico estáis utilizando?
 - La empresa ofrece cursos o certificaciones?
 ### Preguntas recursos humanos
+- Cuál es el horario de trabajo? Hora de entrada? Puede ser variable?
 - Tenéis "dress code"?
 - Cuál es la política de vacaciones?
 - Hay posibilidades de ascenso? Dónde puedo estar en 5 años?
