@@ -16,6 +16,10 @@ Notas para preparar una entrevista de trabajo en IT
 - Cuáles son los retos a los que me voy a enfrentar al entrar?
 - Qué stack tecnológico estáis utilizando?
 - La empresa ofrece cursos o certificaciones?
+- Que proceso de QA seguís antes de salir a produccion?
+- Haceis tests? Que tipos de tests haceis? Que coverage teneis?
+- Que politica teneis ante fallos? 
+- Que haceis para despliegue de la aplicacion?
 ### Preguntas recursos humanos
 - Cuál es el horario de trabajo? Hora de entrada? Puede ser variable?
 - Tenéis "dress code"?
@@ -34,6 +38,9 @@ Notas para preparar una entrevista de trabajo en IT
 - Me puedes hablar de los otros miembros del equipo con el que voy a trabajar?
 - Cuál es la parte más frustrante de trabajar aquí?
 - Qué cambiarías por aquí si pudieras?
+- Teneis wiki y documentacion sobre arquitectura?
+- Cada cuanto haceis retrospectivas?
+- Haceis reuniones para evaluar propuestas tecnicas?
 
 
 
