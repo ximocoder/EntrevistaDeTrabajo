@@ -1,4 +1,4 @@
-###  Entrevista de Trabajo
+#  Entrevista de Trabajo
 Notas para preparar una entrevista de trabajo en IT
 
 ## Cómo prepararse?
@@ -10,25 +10,25 @@ Notas para preparar una entrevista de trabajo en IT
 - Hacer entrevistas simuladas
 
 ## Qué preguntar?
-# Preguntas generales
+### Preguntas generales
 - Qué es algo que desearías que alguien te hubiera dicho antes de unirte?
-# Preguntas técnicas
+### Preguntas técnicas
 - Cuáles son los retos a los que me voy a enfrentar al entrar?
 - Qué stack tecnológico estáis utilizando?
 - La empresa ofrece cursos o certificaciones?
-# Preguntas recursos humanos
+### Preguntas recursos humanos
 - Tenéis "dress code"?
 - Cuál es la política de vacaciones?
 - Hay posibilidades de ascenso? Dónde puedo estar en 5 años?
 - Cómo se mide mi rendimiento? En qué se basan los aumentos de sueldo?
 - Qué oportunidades hay disponibles para cambiar de roles? Como funciona esto?
 - Trabajar desde casa es posible? Cuándo?
-# Preguntas management
+### Preguntas management
 - Cómo se evalúan las nuevas tecnologías? Quién toma las decisiones finales?
-# Preguntas sobre el producto
+### Preguntas sobre el producto
 - Me podéis comentar los productos que tiene la compañia?
 - Tenéis competidores? Qué posició tenéis en el mercado?
-# Preguntas del equipo
+### Preguntas del equipo
 - Cuáles son las fortalezas y debilidades del equipo actual? 
 - Me puedes hablar de los otros miembros del equipo con el que voy a trabajar?
 - Cuál es la parte más frustrante de trabajar aquí?
