@@ -20,6 +20,14 @@ Notas para preparar una entrevista de trabajo en IT
 - Haceis tests? Que tipos de tests haceis? Que coverage teneis?
 - Que politica teneis ante fallos? 
 - Que haceis para despliegue de la aplicacion?
+- Estáis cerrados a un único stack o utilizais lo que considerais mejor en cada momento?
+- Cuál es vuestra relacción con el cloud computing, lo usáis, para qué etc
+- Qué volumen de carga trabajáis, necesitaís balancear, multiples instancias, programar tareas...
+- Cuál es vuestra política de actualizaciones a nivel de la tecnología, contaís con un roadmap?
+- Cuál es el tiempo medio que tardáis en hacer deploy?
+- Cada cúanto hacéis deploy de media?
+- Tenéis microservicios, para qué los usais?
+- Tenéis buses de eventos (kafka, rabbitmq...) para qué los usáis?
 ### Preguntas recursos humanos
 - Cuál es el horario de trabajo? Hora de entrada? Puede ser variable?
 - Tenéis "dress code"?
@@ -29,7 +37,9 @@ Notas para preparar una entrevista de trabajo en IT
 - Qué oportunidades hay disponibles para cambiar de roles? Como funciona esto?
 - Trabajar desde casa es posible? Cuándo?
 ### Preguntas management
-- Cómo se evalúan las nuevas tecnologías? Quién toma las decisiones finales?
+- Cómo se evalúan las nuevas tecnologías?
+- Quién toma las decisiones finales?
+- Trabajáis con algún framework agile?
 ### Preguntas sobre el producto
 - Me podéis comentar los productos que tiene la compañia?
 - Tenéis competidores? Qué posició tenéis en el mercado?
